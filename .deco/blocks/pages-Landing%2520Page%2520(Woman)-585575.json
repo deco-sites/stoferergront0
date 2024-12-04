@@ -23,7 +23,7 @@
         "__resolveType": "site/sections/Product/SearchResult.tsx",
         "page": {
           "__resolveType": "shopify/loaders/ProductListingPage.ts",
-          "count": 12,
+          "count": 142,
           "query": "women"
         },
         "layout": {
